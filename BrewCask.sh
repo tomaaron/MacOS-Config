@@ -15,3 +15,4 @@ brew cask install slack
 brew cask install spotify
 brew cask install spectacle
 brew cask install mysqlworkbench
+brew cask install signal
